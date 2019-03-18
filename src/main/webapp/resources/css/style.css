@@ -1,0 +1,10 @@
+
+h1 {
+	color: Blue;
+}
+
+.transaction {
+	margin: 5px;
+	border: 1px solid lightgrey;
+	border-radius: 10px;
+}
